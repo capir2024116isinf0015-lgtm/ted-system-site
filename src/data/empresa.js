@@ -17,6 +17,10 @@ export const empresa = {
       descricao: "Comunicação clara e honesta, tratando cada cliente como um parceiro de longo prazo."
     },
     {
+      titulo: "Qualidade Centrada no Cliente",
+      descricao: "Garantir que desde a matéria-prima até a entrega final, o produto supere as expectativas de quem compra"
+    },
+    {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
     }
@@ -41,6 +45,13 @@ export const empresa = {
       foto: "/images/wanderson.jpg",
       alt: "Foto de Wanderson de Vasconcelos",
       descricao: "Fundador da TED System, começou desenvolvendo sistemas de gestão para comércios locais do interior do Nordeste."
+    },
+    {
+      nome: "Adalberto Farias",
+      cargo: "Engenheiro de Software",
+      foto: "",
+      alt: "Foto de Adalberto",
+      descricao: "começou desenvolvendo sistemas de gestão para comércios locais do interior do Nordeste."
     },
     {
       nome: "Sheldon Cooper",
